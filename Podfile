@@ -6,6 +6,7 @@ target 'Universal Guide Book' do
   use_frameworks!
 
   # Pods for Universal Guide Book
+  pod 'MobileCenter'
   pod 'MobileCenter/Push'
 
   target 'Universal Guide BookTests' do
