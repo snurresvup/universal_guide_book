@@ -7,6 +7,8 @@
 //
 
 import UIKit
+import MobileCenter
+import MobileCenterPush
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

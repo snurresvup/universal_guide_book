@@ -1,0 +1,6 @@
+framework module Pods_Universal_Guide_Book {
+  umbrella header "Pods-Universal Guide Book-umbrella.h"
+
+  export *
+  module * { export * }
+}
